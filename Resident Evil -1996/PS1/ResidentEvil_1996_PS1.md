@@ -1,8 +1,8 @@
 # Resident Evil (1996) / PS1
 <details>
-	<summary>
-    PART I - MANSION
-    </summary>
+<summary>PART I - MANSION</summary>
+<p>
+
 Dining room -> Kenneth (skip cut scene) -> Dining Room -> Entryway (cut scene)  
 Equip Jill's gun  
 Take the stairs up and to the right, enter door at the top of the stairs  
@@ -16,7 +16,7 @@ Grab the chemicals on the floor
 Exit storage and go back up the stairs  
 Make a right  
 While looking at the knobless door, do a 270 degree turn away from the zombie then dodge  
-	NOTE:  I couldn't get this to work, so I killed this zombie  
+**Note:**  I couldn't get this turn to work, so I killed this zombie  
 Make a left, dodge the two zombies, and go though the door at the end of the hall  
 Across the catwalk and into the second floor dining room  
 Go towards the blue jewel  
@@ -89,5 +89,15 @@ Stick to the outer wall, the move to the inner wall when you see the dog
 Place the crests on the panel as fast as possible  
 Enter the door and push the stairs two times away from the door you entered  
 Push the steps again the wall with the shelf  
-Exit using the double door to the courtyard  
+Exit using the double door to the courtyard
+
+</p>
+</details>
+<details>
+<summary>PART II - COURTYARD</summary>
+<p>
+
+
+
+</p>
 </details>
