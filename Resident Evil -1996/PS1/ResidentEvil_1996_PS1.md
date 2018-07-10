@@ -32,7 +32,7 @@ Dodge all of the zombies in this corrider by sticking to the inner wall, at the 
 When you round the corner, unlock the door on the right but do not enter  
 Enter the last door on this hall  
 You are now in the hallway of the first cut scene, with Kenneth's body  
-Take a left, away from the camera and enter the door on your left (**piano room**)  
+Take a left, away from the camera and enter the door on your left (**Piano room**)  
 Run around the piano and push the shelf out of the way to grab the sheet music  
 Use the sheet music on the piano (cut scene)  
 Rebecca will enter and ask if she can practice, answer YES  
@@ -140,7 +140,61 @@ Head back to the **mansion**
 TIP: Avoid a Hunter's left claw  
 ++++++++++++++++++++++++++++++++++++  
 
-Dodge the Hunter and unlock the door with the Helmet Key and escape  
+Dodge the Hunter and unlock the door with the **Helmet Key** and enter  
+Turn on the light on the desk and grab the **Magnum Rounds**, along with **Doom Book I**  
+Leave the room and quickly head towards the next door (blue) avoiding the Hunter  
+Ignore the Hunter and the Storage Room, going up the stairs.  Two Hunters will be waiting for you up there  
+Avoid all Hunters and enter the corridor leading to the **Main Hall 2F**  
+In the Main Hall, continue to the **Dining Room 2F**  
+Enter the far door  
+Avoid the Hunter, circle the stairs, avoid the other Hunter at the end and unlock the door beside the stairs with the **Helmet Key**  
+Grab more **Magnum Rounds** and push the steps a bit towards the stuffed moose trophy head above  
+Turn the lights off using the switch near the door and climb the steps  
+Get the **Red Jewel**  
+Exit this room and run as quickly as you can to the stairs  
+Go down  
+Enter the Serum Room and Rebecca should be waiting for you (cut scene)  
+Leave the **Doom Book** and the **Beretta** in the Chest  
+Exit the **Serum Room** and use the same tactic you used previously with the zombies to avoid the Hunters in this room  
+Get to the **Tiger room** while avoiding the new Hunter in the alcove  
+Use the **Red Jewel**  
+Get the **Colt** and equip  
+Exit the room and, before the loading is complete, start running
+Avoid the Hunter by sticking close to the wall which is opposite to the door. 
+Go back to the **Main Hall**  
+Climb the stairs and enter the door on the right side  
+Avoiding the hunters, enter the door before the one for the room with the file about herb mixing  
+Avoid the Hunter and proceed down the corridor, past the stairs  
+Ignore the other Hunter  
+Enter the door at the end  
+
+Grab a single herb  
+Unlock the door to the big room and discard the Helmet Key  
+Make sure the **Colt** is equipped and check the Piano  
+Hold down the Aim and Action buttons  
+You can hit **Yawn** 2-3 times before it prepares to attack  
+When **Yawn** prepares to attack, run to the other side of the room and wait for it to appear  
+Try to shoot the mouth when it's open (You may need some herbs after this fight)  
+Once you defeat **Yawn** go down into the hole  
+Proceed to the **basement** through the secret passage below the tombstone  
+Dodge the first zombie you see and make your way into the **kitchen**  
+Before going to the **elevator**, be sure to circle the table and get the **Small Key** lying around  
+Circle the zombie in front of the **elevator** through the outer wall and enter it  
+On the 2nd floor, run towards the screen and enter the **library**  
+Kill the zombie near the door just to be safe, and use the **Small Key** on the desk for more **Colt ammo**  
+Go to the door on the west side and push the statue to the back of the room and grab the **MO Disc**  
+Now go back to the **elevator** and kill the zombie nearest to it, who's blocking your way to the battery  
+Enter the next room and get the **battery**  
+Leave the small room and go back to the **elevator**  
+Use the herb here if you need the health. The zombie down there most likely will have a bite at your feet  
+Go down to the kitchen, exit the door unused door (cut scene)  
+Circle the table quickly to avoid the zombie  
+Enter the door and go up the stairs.  You'll be back in **Kenneth's room**  
+Go to the **Main Hall**, there will be two Hunters on your way that you should avoid  
+Go through the **blue doors** and make your way back to the **courtyard**  
+Ignore the Spiders along the way, but kill the Hunter  
+Dodge the other Hunter near the exit and go outside  
+Avoid another Hunter and enter the **courtyard**  
 
 </p>
 </details>
