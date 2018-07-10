@@ -97,6 +97,37 @@ Exit using the double door to the **Courtyard**
 <summary>PART II - COURTYARD</summary>
 <p>
 
+Head north through the center of the courtyard, avoiding the dogs, and use the crank on the gate  
+Cross the bridge, ignoring the snakes  
+Ignore the dogs. Run along the wall that the dog is not blocking and enter the guard house  
+Enter the first dorm and kill the zombie  
+Enter the bathroom, drain the tub and grab the **control room key**  
+Exit the bathroom and retrieve the red book.  Save your bullets for Plant42  
+Exit Dorm 001 and cross the hole, allowing Plant42 to grab you  
+Enter the door at the end of the hall  
+Enter the wasp room  
+Grab the key to Dorm 002 and head back to the main hallway  
+Push the left shelf forwards, and the right shelf a bit more to the right  
+Head down the stairs  
+Push the box down the corrider to the other boxes, without blocking your path to the other boxes  
+Push all boxes into the water and enter the shark room  
+Circle to Chris' right and open the control room  
+Pull the lever to drain the water  
+Push the button next to the door to unlock it  
+Exit this room and and enter the next room  
+On the shelf, past the gun and behind the box, you'll find the Dorm 003 Key  
+Grab the handgun clips, you will need these for Plant42  
+Then go back to the Wasp room to open Dorm 003  
+Grab the white book  
+Reload your handgun  
+Use the red book on the shelf  
+Enter the Plant42 room  
+Run to the fireplace wall  
+Aim your gun and start shooting  
+As things begin to fall you can run to the side a bit to dodge, but stay against the fireplace wall  
+Once Plant42 loses its tenticles move to the double door aim up at Plant42 and shoot  
+Once it dies go to the fireplace and retrieve the Helmet key  
+Head back to the mansion  
 
 
 </p>
