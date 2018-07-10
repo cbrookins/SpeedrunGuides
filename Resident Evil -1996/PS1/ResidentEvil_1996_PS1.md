@@ -136,11 +136,11 @@ Head back to the **mansion**
 <summary>PART III - MANSION</summary>
 <p>
 
-+++++++++++++++++++++++++++++++++++
-TIP: Avoid a Hunter's left claw
-++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++  
+TIP: Avoid a Hunter's left claw  
+++++++++++++++++++++++++++++++++++++  
 
-Dodge the Hunter and unlock the door with the Helmet Key and escape
+Dodge the Hunter and unlock the door with the Helmet Key and escape  
 
 </p>
 </details>
