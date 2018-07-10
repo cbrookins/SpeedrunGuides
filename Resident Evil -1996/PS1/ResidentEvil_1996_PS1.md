@@ -167,7 +167,6 @@ Avoiding the hunters, enter the door before the one for the room with the file a
 Avoid the Hunter and proceed down the corridor, past the stairs  
 Ignore the other Hunter  
 Enter the door at the end  
-
 Grab a single herb  
 Unlock the door to the big room and discard the Helmet Key  
 Make sure the **Colt** is equipped and check the Piano  
